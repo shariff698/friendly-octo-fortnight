@@ -1,0 +1,11 @@
+online-store/
+│
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+└── backend/
+    ├── server.js
+    ├── package.json
+    └── .env
